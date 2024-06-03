@@ -1,0 +1,48 @@
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.vbproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.vb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Debug\net6.0-windows\Calc.exe
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Debug\net6.0-windows\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Debug\net6.0-windows\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
+C:\Users\efr20\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.exe
+C:\Users\efr20\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+C:\Users\efr20\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+C:\Users\efr20\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.dll
+C:\Users\efr20\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.pdb
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.vbproj.GenerateResource.cache
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.vb
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.dll
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.pdb
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+C:\Users\efr20\Downloads\Calc\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Debug\net6.0-windows\Calc.exe
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Debug\net6.0-windows\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Debug\net6.0-windows\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.vbproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.vb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Debug\net6.0-windows\ref\Calc.dll

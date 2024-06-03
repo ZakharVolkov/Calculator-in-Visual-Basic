@@ -1,0 +1,48 @@
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.exe
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.deps.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.runtimeconfig.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.Form1.resources
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.vbproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.AssemblyInfo.vb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\refint\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Calc\Calc\obj\Release\net6.0-windows\win-x64\ref\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.exe
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.deps.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.runtimeconfig.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\bin\Release\net6.0-windows\win-x64\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.Form1.resources
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.vbproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.AssemblyInfo.vb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\refint\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\Calc.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\rrr\Calc\Calc\obj\Release\net6.0-windows\win-x64\ref\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Release\net6.0-windows\win-x64\Calc.exe
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Release\net6.0-windows\win-x64\Calc.deps.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Release\net6.0-windows\win-x64\Calc.runtimeconfig.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Release\net6.0-windows\win-x64\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\bin\Release\net6.0-windows\win-x64\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.Form1.resources
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.vbproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.AssemblyInfo.vb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.vbproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\refint\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.pdb
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\Calc.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Код калькулятора\Calc\obj\Release\net6.0-windows\win-x64\ref\Calc.dll

@@ -1,0 +1,5 @@
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Готовый калькулятор\Calc.exe
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Готовый калькулятор\Calc.dll
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Готовый калькулятор\Calc.deps.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Готовый калькулятор\Calc.runtimeconfig.json
+C:\Users\Ivan\Desktop\Работа\Задания\Калькулятор Бейсик\Готовый калькулятор\Calc.pdb
